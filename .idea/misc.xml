@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2985" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/drawable/ic_baseline_book.xml" value="0.2985" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/drawable/ic_baseline_favorite.xml" value="0.1235" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/drawable/ic_baseline_location_on.xml" value="0.2985" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/drawable/ic_baseline_people.xml" value="0.2985" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/drawable/ic_baseline_settings.xml" value="0.2985" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/layout/activity_favorite_user.xml" value="0.1762917933130699" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/layout/activity_search_user.xml" value="0.3625" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/layout/activity_settings.xml" value="0.3625" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/layout/activity_splash.xml" value="0.17135416666666667" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/layout/activity_user_detail.xml" value="0.3625" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/layout/fragment_detail.xml" value="0.2875" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/layout/fragment_follower.xml" value="0.2875" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/layout/fragment_followers.xml" value="0.3625" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/layout/fragment_following.xml" value="0.2734375" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/layout/item_row_user.xml" value="0.3625" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/layout/shimmer_item_row_user.xml" value="0.3625" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/layout/shimmer_list_user.xml" value="0.3625" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/layout/shimmer_user_detail.xml" value="0.27708333333333335" />
+        <entry key="..\:/Coding/Android/GithubUser/app/src/main/res/menu/main_menu.xml" value="0.18541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

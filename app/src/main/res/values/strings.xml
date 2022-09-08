@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="follower_text"><![CDATA[<b>%d</b> followers ]]></string>
+    <string name="following_text"><![CDATA[<b>%d</b> following · ]]></string>
+    <string name="repository_text">%d repositories</string>
+    <string name="detail_page_title">Detail User</string>
+    <string name="tab_following">Following</string>
+    <string name="tab_followers">Followers</string>
+    <string name="menu_favorite_user">Favorite User</string>
+    <string name="favorite_user_title">Favorite User</string>
+    <string name="theme_settings_title">Theme Settings</string>
+    <string name="theme">Theme</string>
+    <string name="light_theme">Light Mode</string>
+    <string name="dark_theme">Dark Mode</string>
+    <string name="github_text_logo">Github text logo</string>
+    <string name="username">Username</string>
+</resources>
+
+
